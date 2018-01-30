@@ -16,7 +16,7 @@
    id="svg8"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="start.svg"
-   inkscape:export-filename="C:\Users\RobotJu\Desktop\Images\start2.png"
+   inkscape:export-filename="C:\Users\RobotJu\Documents\GitHub\BackUp\Images\start2.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="-187.85594"
-     inkscape:cy="299.17958"
+     inkscape:cx="261.42977"
+     inkscape:cy="286.32244"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1600"
      inkscape:window-height="837"
@@ -64,8 +64,8 @@
     <circle
        style="opacity:1;fill:#f40000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        id="path819"
-       cx="100.1954"
-       cy="197.09482"
+       cx="100"
+       cy="197"
        r="93.796722" />
   </g>
   <g
@@ -76,14 +76,23 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Calque 2"
-     style="display:inline" />
+     style="display:inline">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49019608"
+       d="M 65.854,163.94529 V 44.882785 l 103.18757,59.575335 z"
+       id="path825-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\RobotJu\Desktop\Images\start2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Calque 3">
     <path
-       style="fill:#fcfcfc;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 63.499999,162.95833 V 43.895832 L 166.6875,103.47116 Z"
+       style="fill:#fcfcfc;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 61.106458,159.53125 V 40.46875 l 103.187572,59.57533 z"
        id="path825"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\RobotJu\Desktop\Images\start2.png"
